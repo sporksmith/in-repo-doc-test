@@ -6,4 +6,4 @@
 
 Here is some more content.
 
-And now we attempt to [link](ANOTHER)
+And now we attempt to [link](ANOTHER.md)
