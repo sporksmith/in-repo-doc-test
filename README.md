@@ -16,4 +16,7 @@ Another link test: [subdir]()
 
 And another: [](subdir)
 
-Url syntax: <subdir>
+Url syntax: <subdir> And some text afterwards.
+
+And some more text afterwards.
+
