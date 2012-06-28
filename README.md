@@ -1,5 +1,7 @@
 # Rootest README file
 
+An absolute link early on in the file: <http://www.sourceforge.net>
+
 *Here* is some documentation.
 
 # Second heading
