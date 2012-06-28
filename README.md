@@ -16,7 +16,9 @@ How are artifact links rendered? [subdir]
 
 Another link test: [subdir]()
 
-And another: [](subdir)
+This causes lots of problems:
+
+    [](subdir)
 
 Url syntax: <subdir> And some text afterwards.
 
