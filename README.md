@@ -15,3 +15,5 @@ How are artifact links rendered? [subdir]
 Another link test: [subdir]()
 
 And another: [](subdir)
+
+Url syntax: <subdir>
