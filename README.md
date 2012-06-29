@@ -24,3 +24,17 @@ Url syntax: <subdir> And some text afterwards.
 
 And some more text afterwards.
 
+# h1 hash test
+
+## h2 hash test
+
+h1 equals test
+==============
+
+h2 dashes test
+--------------
+
+h? splats test
+**************
+
+more text.
