@@ -34,4 +34,23 @@ Content Cell  | Content Cell
     Content Cell  | Content Cell
     Content Cell  | Content Cell
 
+--------------------------------------------
+
+html table test:
+
+<table>
+  <tr>
+    <td>First Header</td>
+    <td>Second Header</td>
+  </tr>
+  <tr>
+    <td>Content Cell</td>
+    <td>Content Cell</td>
+  </tr>
+  <tr>
+    <td>Content Cell</td>
+    <td>Content Cell</td>
+  </tr>
+</table>
+
 Fin.
