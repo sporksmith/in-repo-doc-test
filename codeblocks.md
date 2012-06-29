@@ -10,4 +10,16 @@ Unrelated text.
     Indented code test.
     Second line.
 
-Ending text.
+More text.
+
+    :::bash
+    # indented language hint test
+    ls foo
+    blah
+
+~~~~
+:::bash
+# fenced language hint test
+ls foo
+blah
+~~~~
