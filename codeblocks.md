@@ -17,6 +17,8 @@ More text.
     ls foo
     blah
 
+text!
+
 ~~~~
 :::bash
 # fenced language hint test
