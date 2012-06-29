@@ -13,6 +13,7 @@ Content Cell  | Content Cell
     Content Cell  | Content Cell
 
 "pre" indented block table, with list items before it:
+
 * list item 1
 * list item 2
 
